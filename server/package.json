@@ -1,0 +1,20 @@
+{
+  "name": "new_retauk",
+  "version": "1.0.0",
+  "description": "新零售电商平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "md5": "^2.3.0"
+  },
+  "devDependencies": {
+    "mysql": "^2.18.1"
+  }
+}
